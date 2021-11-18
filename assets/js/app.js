@@ -41,7 +41,7 @@
             // item1
             {
                 link: "./items/detail_1.html",
-                img: "../assets/img/item1.jpg",
+                img: "./assets/img/item1.jpg",
                 name: "Laptop Apple Macbook Pro M1",
                 price_old: "50.000.000đ",
                 price_current: "43.500.000đ",
